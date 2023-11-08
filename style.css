@@ -1,0 +1,57 @@
+
+#logo{
+    width: 100px;
+}
+
+
+.nav-item{
+    color: rgb(192, 16, 4);
+    font-size: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.container-2{
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.middle{
+    text-align: center;
+    margin-top: 50px;
+    background-color: aquamarine;
+    margin: 50px 400px;
+    padding: 10px;
+    border-radius: 15px;
+    color: chocolate;
+}
+
+.new{
+margin: 0 70px;
+}
+
+footer{
+    background: #272626;
+    color: aliceblue;
+    margin: 70px;
+    padding: 100px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.card-body{
+    background: #009688;
+    color: #FFC312;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.card{
+    margin: 5px;
+}
